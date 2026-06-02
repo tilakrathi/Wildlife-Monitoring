@@ -34,6 +34,16 @@ npm run dev
 
 Open the Vite URL shown in the terminal, then upload an image and run a prediction.
 
+## Sample Output Images
+
+<img width="1901" height="911" alt="Screenshot 2026-04-20 101825" src="https://github.com/user-attachments/assets/4a491117-f2ba-4250-8e4f-0567c8a19691" />
+<img width="1898" height="910" alt="Screenshot 2026-04-20 101909" src="https://github.com/user-attachments/assets/36543f22-9a93-4710-9282-9686aadb95a1" />
+<img width="1890" height="913" alt="Screenshot 2026-04-20 102120" src="https://github.com/user-attachments/assets/eee7ef38-4bae-4d27-8cbd-8454aa927f73" />
+<img width="1894" height="912" alt="Screenshot 2026-04-20 102152" src="https://github.com/user-attachments/assets/1810a471-ef46-43b2-845b-d121ac5e6e16" />
+<img width="1890" height="907" alt="Screenshot 2026-04-20 102218" src="https://github.com/user-attachments/assets/a2892716-66ee-4e71-9525-510916a82398" />
+
+
+
 ## API endpoints
 
 - `GET /health` checks that the model is loaded.
